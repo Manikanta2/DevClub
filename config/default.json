@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://mani123:mani123@devclub-xieuy.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecretkey"
+  "jwtSecret": "mysecretkey",
+  "githubClientId": "36438f21dc9d7b9c7a71",
+  "githubSecret": "e1b61715ad1c98056d2537879315b0a2e3fb5da1"
 }
